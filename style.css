@@ -2,6 +2,8 @@ h1 {
 	color: blue;
 	text-decoration: underline;
 	font-family: 'Lato', sans-serif;
+	background-image: url("h1_backroung.png");
+	text-align: center;
 }
 body {
 	color: blue;
